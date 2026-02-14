@@ -2,6 +2,9 @@
 
 Material to teach basic to advanced OCR concepts
 
+## Getting Started
+
+
 ### ⚠️ IMPORTANT: ACCESS & SECURITY
 > **The notebooks in this repository are encrypted.**
 >
@@ -10,8 +13,6 @@ Material to teach basic to advanced OCR concepts
 > During the setup phase of the workshop, you will be provided with a **password**. You will be prompted to enter this password directly in the kernel when running the setup cells.
 > *Without this password, the learning materials will not load.*
 
-
-## Getting Started
 
 ### Environment set-up
 
