@@ -1,6 +1,14 @@
 # LearnLab_OCR
 
-Material to teach basic OCR concepts
+Material to teach basic to advanced OCR concepts
+
+### ⚠️ IMPORTANT: ACCESS & SECURITY
+> **The notebooks in this repository are encrypted.**
+>
+> 🛑 **Notebooks will appear empty if the password is incorrect.**
+>
+> During the setup phase of the workshop, you will be provided with a **password**. You will be prompted to enter this password directly in the kernel when running the setup cells.
+> *Without this password, the learning materials will not load.*
 
 
 ## Getting Started
